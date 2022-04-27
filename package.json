@@ -1,6 +1,6 @@
 {
   "name": "joyent-repos",
-  "version": "2.5.1",
+  "version": "2.6.0",
   "description": "A spec and tool for listing, clone, and working with Joyent (Triton, Manta, and SmartOS) repos",
   "author": "Joyent (joyent.com)",
   "license": "MPL-2.0",
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joyent/joyent-repos.git"
+    "url": "git+https://github.com/TritonDataCenter/joyent-repos.git"
   },
-  "homepage": "https://github.com/joyent/joyent-repos",
+  "homepage": "https://github.com/TritonDataCenter/joyent-repos",
   "keywords": [
     "joyent",
     "git",

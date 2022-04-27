@@ -2,6 +2,10 @@
 
 ## not yet released
 
+## 2.6.0
+
+- TOOLS-2543 MNX Tooling updates
+
 ## 2.5.1
 
 - TOOLS-2434 Fix `jr` breakage in v2.2.0.
@@ -36,7 +40,6 @@
   this, `illumos-joyent` being the only one so far.
 
 - TOOLS-2360 'jr github-settings ...' improve error handling
-
 
 ## 2.2.1
 
@@ -109,7 +112,6 @@
         sdc-manta             4.1.3
         manta-muskie          4.1.3
         manta-wrasse          4.1.3
-
 
 ## 1.1.0
 
